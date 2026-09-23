@@ -1,2 +1,2 @@
 *.txt
-!importante.txt
+!importante.txt*.pyc
